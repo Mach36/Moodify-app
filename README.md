@@ -16,7 +16,7 @@ In order for the app to run you need to have the folllowing libraries:
 - spotipy 2.18.0
 - pickle-mixin 1.0.2
 
-You can insall these using the requirements.txt file. You can run `pip install -r requirements.txt` file. 
+You can install these using the requirements.txt file. You can run `pip install -r requirements.txt` file. 
 
 ## Running the app
 Once you have got the repo cloned and the dependencies installed you can simply run the app using `streamlit run moodify_app.py`. After running you will be able to see the app:
